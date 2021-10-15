@@ -11,6 +11,10 @@ Features :
 - Fun for all ages
 - Good practice for the mind
 - You can play offline
+
+Google play : https://play.google.com/store/apps/details?id=com.tgx.mindbombb
+
+
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/1.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/1.jpg" width="200" height="400" />
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/2.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/2.jpg" width="200" height="400" />
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/3.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/3.jpg" width="200" height="400" />
