@@ -16,10 +16,10 @@ Google play : https://play.google.com/store/apps/details?id=com.tgx.mindbombb
 
 
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/1.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/1.jpg" width="200" height="400" />
-<img src="https://github.com/Tahani19/Game/blob/main/GUI/2.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/2.jpg" width="200" height="400" />
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/8.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/8.jpg" width="200" height="400" />
-<img src="https://github.com/Tahani19/Game/blob/main/GUI/3.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/3.jpg" width="200" height="400" />
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/4.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/4.jpg" width="200" height="400" />
+<img src="https://github.com/Tahani19/Game/blob/main/GUI/2.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/2.jpg" width="200" height="400" />
+<img src="https://github.com/Tahani19/Game/blob/main/GUI/3.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/3.jpg" width="200" height="400" />
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/5.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/5.jpg" width="200" height="400" />
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/6.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/6.jpg" width="200" height="400" />
 <img src="https://github.com/Tahani19/Game/blob/main/GUI/7.jpg" data-canonical-src="https://github.com/Tahani19/Game/blob/main/GUI/7.jpg" width="200" height="400" />
